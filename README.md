@@ -3,4 +3,4 @@ introducer is a program (a useless one) thats well introduces you to someone (an
 
 # this is me from the future
 
-yea theres better way to do this i was just dumb. i mean C# better for dis
+wow. I goten SOOOoo mouch better over the years lol
